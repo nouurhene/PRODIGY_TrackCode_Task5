@@ -8,9 +8,7 @@ This is a simple Java-based web scraper that extracts book information from a sa
 - Filters books based on price (less than $25).
 - Saves the extracted data into a CSV file.
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
 - Jsoup library (included in the project)
